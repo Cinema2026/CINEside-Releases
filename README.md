@@ -25,5 +25,3 @@
 > Dieses GitHub-Repository dient ausschließlich der Versorgung bestehender
 > Installationen mit automatischen Updates. Neue Nutzer:innen installieren
 > bitte über den App Store.
-
----
