@@ -27,6 +27,3 @@
 > bitte über den App Store.
 
 ---
-
-Download and auto-update releases for CINEside.# CINEside-Releases
- Download and auto-update releases for CINEside
